@@ -1,0 +1,1 @@
+1.0.1: Adopt semantic versioning for firmware release metadata and welcome messages.
