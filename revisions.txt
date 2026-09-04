@@ -1,1 +1,2 @@
 1.0.1: Adopt semantic versioning for firmware release metadata and welcome messages.
+1.0.2: Send serial status messages with CRLF and allow CureControl to request the firmware version.
